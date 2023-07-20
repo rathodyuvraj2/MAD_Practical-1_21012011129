@@ -26,3 +26,13 @@ Practical-1.4 Find the number is odd or even by using Control Flow inside printl
 Output:
 
 ![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/18cdf8ba-f94e-4016-beca-f83fe2bcc279)
+
+
+Practical-1.5 Display month name using When
+
+Output:
+
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/2a324f9e-0ffb-455b-8c01-072a32a6097e)
+
+Practical-1.6 By using a user defined function perform all arithmetic operations.
+
