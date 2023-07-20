@@ -36,3 +36,15 @@ Output:
 
 Practical-1.6 By using a user defined function perform all arithmetic operations.
 
+Output:
+ 
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/1ada8788-ca29-4b3d-aeb1-d4f09210b211)
+
+Practical-1.7 Find the factorial of number by recursion. Explain "tailrec" keyword.
+
+ tailrec -->  When a function is marked as tailrec, it means that the function's recursive call is the last operation in that function. This property allows the compiler to replace the recursion with a more efficient iterative loop, which can help prevent stack overflow errors and improve performance. 
+
+Output:
+
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/20663ff1-d797-40ce-81f1-f2c1db9cffa2)
+
