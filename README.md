@@ -22,3 +22,7 @@ Output:
 ![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/f1f5168f-4a63-4e2c-a910-354db5bc2d9f)
 
 
+Practical-1.4 Find the number is odd or even by using Control Flow inside println() method.
+Output:
+
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/18cdf8ba-f94e-4016-beca-f83fe2bcc279)
