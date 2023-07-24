@@ -59,3 +59,5 @@ Output:
 Practical-1.9 :  Find the max number from ArrayList.
 
 Output: 
+
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/e565ab67-783f-4c82-9279-c17d291ae172)
