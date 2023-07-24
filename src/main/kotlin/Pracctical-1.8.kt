@@ -12,7 +12,6 @@ fun bubbleSort(arr: IntArray) {
 }
 
 fun main(){
-
     println("Array created by using arrayof() method")
     var a1 = arrayOf(13,33,25,43,38)
     println(a1.contentToString())
