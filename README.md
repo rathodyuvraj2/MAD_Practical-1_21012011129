@@ -48,3 +48,14 @@ Output:
 
 ![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/20663ff1-d797-40ce-81f1-f2c1db9cffa2)
 
+Practical-1.8: Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString() and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function.
+
+
+Output:
+
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/35b98e25-11d0-4959-8952-950ae4962838)
+
+
+Practical-1.9 :  Find the max number from ArrayList.
+
+Output: 
