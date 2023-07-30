@@ -61,3 +61,18 @@ Practical-1.9 :  Find the max number from ArrayList.
 Output: 
 
 ![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/e565ab67-783f-4c82-9279-c17d291ae172)
+
+Practical-1_10. Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+
+Output:
+
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/202b65fb-630c-4dc6-af53-969a4400ba85)
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/26f82eee-af0c-4d93-85ac-dbc5daaaa0e8)
+
+Practical-1_11 : Write about Operator Overloading. Perform Matrix Addition, Subtraction & Multiplication using Class Matrix & operator overloading. Overload toString() function in Matrix class.
+
+Output:
+
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/0ff1d728-948c-4f25-88df-0e3de48b8128)
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/1a6abe4d-516d-44fc-94fd-3d05dc85d901)
+![image](https://github.com/rathodyuvraj2/MAD_Practical-1_21012011129/assets/124398921/37bfa29f-cda0-4283-9627-0e5801c0e7ea)
