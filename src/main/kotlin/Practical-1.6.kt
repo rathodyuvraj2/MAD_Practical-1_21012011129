@@ -6,11 +6,11 @@ fun main(){
 
 fun arithOps(){
     print("Enter fist number : ")
-    var usrInputOne = readln().toInt()
+    var usrInputOne = readLine()!!.toInt()
     print("Enter second number : ")
-    var usrInputTwo = readln().toInt()
+    var usrInputTwo = readLine()!!.toInt()
     print("Enter third number : ")
-    var usrInputThree = readln().toInt()
+    var usrInputThree = readLine()!!.toInt()
 
     print("Sum : ")
     println(usrInputOne + usrInputTwo + usrInputThree)

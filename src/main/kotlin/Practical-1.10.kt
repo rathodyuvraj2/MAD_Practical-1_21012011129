@@ -22,18 +22,20 @@ class Car (
         val originalPrice = getOriginalCarPrice()
         val currentPrice = getCurrentCarPrice()
         println("-----------------------------------")
+        println("-----------------------------------")
         println("Car Information : $type, $model")
         println("Car Owner : $owner")
         println("Miles Drive : $milesdrive")
         println("Original Car Price : $originalPrice")
         println("Current Car Price : $currentPrice")
         println("-----------------------------------")
+        println("-----------------------------------")
     }
 }
 
 fun main() {
-    var car1 = Car("BMW",2018, 100000.0,98950.0, "Aman",105 )
-    var car2 = Car("BMW",2019, 400000.0,399800.0, "Karan",20 )
+    var car1 = Car("BMW",2018, 100000.0,98950.0, "Yuvraj",105 )
+    var car2 = Car("BMW",2019, 400000.0,399800.0, "Viraj",20 )
     car1.displayCarInfo()
     car2.displayCarInfo()
 

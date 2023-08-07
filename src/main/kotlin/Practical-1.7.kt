@@ -1,7 +1,7 @@
 fun  main()
 {
     println("Enter Number:")
-    var n= readln().toInt()
+    var n= readLine()!!.toInt()
     var value=fact(n)
     println("Factorial:" + value)
 }

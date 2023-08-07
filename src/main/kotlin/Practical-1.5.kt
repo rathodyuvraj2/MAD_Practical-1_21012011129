@@ -1,7 +1,7 @@
 fun main()
 {
     print("Enter Month number:")
-    var a= readln().toInt()
+    var a= readLine()!!.toInt()
     when(a)
     {
         1-> println("January")

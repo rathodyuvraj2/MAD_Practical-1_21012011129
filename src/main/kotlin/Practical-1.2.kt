@@ -13,6 +13,4 @@ fun main(){
     var f =d.toFloat()
     println("float value from double : $f")
 
-
-
 }

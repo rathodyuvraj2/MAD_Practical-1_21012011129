@@ -1,7 +1,7 @@
 fun main()
 {
     println("Enter the number : ")
-    var a= readln().toInt()
+    var a= readLine()!!.toInt()
     if (a%2==0)
         println("the number is even")
     else

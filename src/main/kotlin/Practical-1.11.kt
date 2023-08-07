@@ -1,4 +1,3 @@
-import javax.print.attribute.standard.MediaSize.Other
 
 class Matrix(var data: Array<IntArray>) {
     val rows: Int = data.size
@@ -46,9 +45,9 @@ class Matrix(var data: Array<IntArray>) {
     }
 }
 fun main() {
-    val firstMatrix = Matrix(arrayOf(intArrayOf(3, -2, 5), intArrayOf(3, 0, 4)))
-    val secondMatrix = Matrix(arrayOf(intArrayOf(2, 3), intArrayOf(-9, 0), intArrayOf(0, 4)))
-    val secondMatrix1 = Matrix(arrayOf(intArrayOf(6, 3), intArrayOf(9, 0), intArrayOf(5, 4)))
+    val firstMatrix = Matrix(arrayOf(intArrayOf(3, 10, 5), intArrayOf(3, 0, 4)))
+    val secondMatrix = Matrix(arrayOf(intArrayOf(2, 4), intArrayOf(8, 9), intArrayOf(0, 4)))
+    val secondMatrix1 = Matrix(arrayOf(intArrayOf(6, 3), intArrayOf(9, 1), intArrayOf(5, 4)))
 
     println("********** Addition **********")
     println("Matrix : 1 ")
